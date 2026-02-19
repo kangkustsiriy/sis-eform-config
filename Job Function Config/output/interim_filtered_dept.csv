@@ -1,0 +1,759 @@
+NAV_PERMS,FA Manager 3,Clean_NAV
+Main Menu>Student Admissions>Applicant Summaries>Academic Test Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>Academic Test Summary
+Main Menu>Student Admissions>Applicant Summaries>Application Evaluation Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>Application Evaluation Summary
+Main Menu>Student Admissions>Applicant Summaries>Application Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>Application Summary
+Main Menu>Student Admissions>Applicant Summaries>Application Materials Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>Application Materials Summary
+Main Menu>Student Admissions>3 C's and Event Summaries>Checklist Summary:0:Update/Display,x,Main Menu>Student Admissions>3 C's and Event Summaries>Checklist Summary
+Main Menu>Student Admissions>3 C's and Event Summaries>Comment Summary:0:Update/Display,x,Main Menu>Student Admissions>3 C's and Event Summaries>Comment Summary
+Main Menu>Student Admissions>3 C's and Event Summaries>Communication Summary:0:Update/Display,x,Main Menu>Student Admissions>3 C's and Event Summaries>Communication Summary
+Main Menu>Student Admissions>Applicant Summaries>Education Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>Education Summary
+Main Menu>Student Admissions>Applicant Summaries>General Materials Summary:0:Update/Display,x,Main Menu>Student Admissions>Applicant Summaries>General Materials Summary
+Main Menu>Student Admissions>Application Entry>Academic Information>Education:1:Update/Display,x,Main Menu>Student Admissions>Application Entry>Academic Information>Education
+Main Menu>Student Admissions>Application Entry>Personal Information>Electronic Addresses:1:Update/Display,x,Main Menu>Student Admissions>Application Entry>Personal Information>Electronic Addresses
+Main Menu>Student Admissions>Application Entry>Personal Information>Languages:1:Update/Display,x,Main Menu>Student Admissions>Application Entry>Personal Information>Languages
+Main Menu>Student Admissions>Application Entry>Academic Information>Test Results:1:Update/Display,x,Main Menu>Student Admissions>Application Entry>Academic Information>Test Results
+Main Menu>Student Admissions>Application Entry>Relationships>Work Experience:1:Update/Display,x,Main Menu>Student Admissions>Application Entry>Relationships>Work Experience
+Main Menu>Curriculum Management>Schedule of Classes>Exam Code Table:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Exam Code Table
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Class Search Configuration:1:Update/Display,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Class Search Configuration
+Main Menu>Curriculum Management>Schedule of Classes>Adjust Class Associations:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Adjust Class Associations
+Main Menu>Curriculum Management>Schedule of Classes>Update Sections of a Class:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Update Sections of a Class
+Main Menu>Curriculum Management>Schedule of Classes>Class Event Table:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Class Event Table
+Main Menu>Curriculum Management>Dynamic Dates>Class Section Dynamic Dates:1:Update/Display,x,Main Menu>Curriculum Management>Dynamic Dates>Class Section Dynamic Dates
+Main Menu>Curriculum Management>Instructor/Advisor Information>Instructor Schedule:1:Update/Display,x,Main Menu>Curriculum Management>Instructor/Advisor Information>Instructor Schedule
+Main Menu>Curriculum Management>Schedule of Classes>Schedule Class Meetings:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Schedule Class Meetings
+Main Menu>Curriculum Management>Schedule of Classes>Maintain Schedule of Classes:1:Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Maintain Schedule of Classes
+Main Menu>Curriculum Management>Combined Sections>Identify Combined Sections:1:Update/Display,x,Main Menu>Curriculum Management>Combined Sections>Identify Combined Sections
+Main Menu>Curriculum Management>Combined Sections>Combined Sections Table:1:Update/Display,x,Main Menu>Curriculum Management>Combined Sections>Combined Sections Table
+Main Menu>Curriculum Management>Course Catalog>Select Course Offering:0:Update/Display,x,Main Menu>Curriculum Management>Course Catalog>Select Course Offering
+Main Menu>Curriculum Management>Course Catalog>Browse Catalog:0:Update/Display,x,Main Menu>Curriculum Management>Course Catalog>Browse Catalog
+Main Menu>Curriculum Management>Course Catalog>Course Details:0:Update/Display,x,Main Menu>Curriculum Management>Course Catalog>Course Details
+Main Menu>Curriculum Management>Course Catalog>Course Catalog Search:0:Update/Display,x,Main Menu>Curriculum Management>Course Catalog>Course Catalog Search
+Main Menu>Curriculum Management>Facility and Event Information>Class Facility Usage:0:Update/Display,x,Main Menu>Curriculum Management>Facility and Event Information>Class Facility Usage
+Main Menu>Records and Enrollment>Enroll Students>Enrollment Request Search:0:Update/Display,x,Main Menu>Records and Enrollment>Enroll Students>Enrollment Request Search
+Main Menu>Records and Enrollment>Enrollment Summaries>Enrollment Summary:0:Update/Display,x,Main Menu>Records and Enrollment>Enrollment Summaries>Enrollment Summary
+Main Menu>Records and Enrollment>Student Term Information>Student Grades:0:Update/Display,x,Main Menu>Records and Enrollment>Student Term Information>Student Grades
+Main Menu>Records and Enrollment>Career and Program Information>Student Term Search:0:Update/Display,x,Main Menu>Records and Enrollment>Career and Program Information>Student Term Search
+Main Menu>Records and Enrollment>Term Processing>Appointments>Student Enrollment Appointment:1:Update/Display,x,Main Menu>Records and Enrollment>Term Processing>Appointments>Student Enrollment Appointment
+Main Menu>Records and Enrollment>Enroll Students>Enrollment:1:Update/Display,x,Main Menu>Records and Enrollment>Enroll Students>Enrollment
+Main Menu>Records and Enrollment>Enroll Students>Enrollment Request:1:Update/Display,x,Main Menu>Records and Enrollment>Enroll Students>Enrollment Request
+Main Menu>Records and Enrollment>Enrollment Reporting>Consolidated Statistics>Student Consolidated Stats:1:Update/Display,x,Main Menu>Records and Enrollment>Enrollment Reporting>Consolidated Statistics>Student Consolidated Stats
+Main Menu>Records and Enrollment>Student Term Information>Term Activate a Student:1:Update/Display,x,Main Menu>Records and Enrollment>Student Term Information>Term Activate a Student
+Main Menu>Records and Enrollment>Career and Program Information>View Student Groups by Student:0:Update/Display,x,Main Menu>Records and Enrollment>Career and Program Information>View Student Groups by Student
+Main Menu>Records and Enrollment>Graduation>Student Degrees:1:Update/Display,x,Main Menu>Records and Enrollment>Graduation>Student Degrees
+Main Menu>CAL Components>Student Records>UC Class Schedule Security:1:Update/Display,x,Main Menu>CAL Components>Student Records>UC Class Schedule Security
+Main Menu>Self Service>Class Search:0:Add Update/Display,x,Main Menu>Self Service>Class Search
+Main Menu>Curriculum Management>Schedule of Classes>Class Search:0:Add Update/Display,x,Main Menu>Curriculum Management>Schedule of Classes>Class Search
+Main Menu>Student Admissions>3 C's and Event Summaries>Event Summary:0:Update/Display All,x,Main Menu>Student Admissions>3 C's and Event Summaries>Event Summary
+Main Menu>Student Admissions>Application Entry>Personal Information>Names:1:Update/Display Update/Display All,x,Main Menu>Student Admissions>Application Entry>Personal Information>Names
+Main Menu>Student Admissions>Application Entry>Personal Information>Residency:1:Update/Display Update/Display All,x,Main Menu>Student Admissions>Application Entry>Personal Information>Residency
+Main Menu>Student Admissions>Application Entry>Academic Information>Student Groups:1:Update/Display Update/Display All,x,Main Menu>Student Admissions>Application Entry>Academic Information>Student Groups
+Main Menu>Student Admissions>Application Maintenance>Maintain Applications:1:Update/Display Update/Display All,x,Main Menu>Student Admissions>Application Maintenance>Maintain Applications
+Main Menu>Student Admissions>Application Maintenance>Add/Update a Person:1:Update/Display Update/Display All,x,Main Menu>Student Admissions>Application Maintenance>Add/Update a Person
+Main Menu>Campus Community>Personal Information>Identification>External System ID:1:Update/Display Update/Display All,x,Main Menu>Campus Community>Personal Information>Identification>External System ID
+Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>External System ID:1:Update/Display Update/Display All,x,Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>External System ID
+Main Menu>Academic Advisement>Academic Requirements>Define Course Lists:1:Update/Display Update/Display All,x,Main Menu>Academic Advisement>Academic Requirements>Define Course Lists
+Main Menu>Academic Advisement>Academic Requirements>Define Academic Requirements:1:Update/Display Update/Display All,x,Main Menu>Academic Advisement>Academic Requirements>Define Academic Requirements
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Instruction Mode:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Instruction Mode
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Classroom Scheduling Interface:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Classroom Scheduling Interface
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Course Attributes:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Course Attributes
+Main Menu>Curriculum Management>Instructor/Advisor Information>Instructor/Advisor Table:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Instructor/Advisor Information>Instructor/Advisor Table
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Requirement Designation Table:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Requirement Designation Table
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Course Typically Offered:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Course Typically Offered
+Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Dynamic Class Dates:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Student Records>Curriculum Management>Dynamic Class Dates
+Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requisite Summary:0:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requisite Summary
+Main Menu>Curriculum Management>Dynamic Dates>Dynamic Class Dates Table:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Dynamic Dates>Dynamic Class Dates Table
+Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Course Lists:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Course Lists
+Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirements:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirements
+Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirement Groups:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirement Groups
+Main Menu>Curriculum Management>Enrollment Requirements>Define Tests for Requisites:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Define Tests for Requisites
+Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Prog Status:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Prog Status
+Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Conditions:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Conditions
+Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Entity Groups:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Entity Groups
+Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Student Group:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Define Requisite Student Group
+Main Menu>Curriculum Management>Course Catalog>Course Catalog:1:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Course Catalog>Course Catalog
+Main Menu>Curriculum Management>Course Catalog>Catalog Summary:0:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Course Catalog>Catalog Summary
+Main Menu>Curriculum Management>Enrollment Requirements>Course List Summary:0:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Course List Summary
+Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirement Summary:0:Update/Display Update/Display All,x,Main Menu>Curriculum Management>Enrollment Requirements>Enrollment Requirement Summary
+Main Menu>Records and Enrollment>Student Term Information>Term History:1:Update/Display Update/Display All,x,Main Menu>Records and Enrollment>Student Term Information>Term History
+Main Menu>Records and Enrollment>Career and Program Information>Student Career:0:Update/Display Update/Display All,x,Main Menu>Records and Enrollment>Career and Program Information>Student Career
+Main Menu>Records and Enrollment>Career and Program Information>Student Groups:1:Update/Display Update/Display All,x,Main Menu>Records and Enrollment>Career and Program Information>Student Groups
+Main Menu>Records and Enrollment>Career and Program Information>Student Program/Plan:1:Update/Display Update/Display All,x,Main Menu>Records and Enrollment>Career and Program Information>Student Program/Plan
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Emergency Contacts:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Emergency Contacts
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Ethnicity:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Ethnicity
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Languages:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Languages
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Work Experience:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Work Experience
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Decedent Data:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Personal Attributes>Decedent Data
+Main Menu>Campus Community>Personal Information (Student)>Add/Update a Person:1:Update/Display Update/Display All,x,Main Menu>Campus Community>Personal Information (Student)>Add/Update a Person
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Addresses:1:Correction,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Addresses
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Electronic Addresses:1:Correction,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Electronic Addresses
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Names:1:Correction,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Names
+Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Phones:1:Correction,x,Main Menu>Campus Community>Personal Information (Student)>Biographical (Student)>Addresses/Phones>View Phones
+,x,
+Main Menu>CAL Components>Financial Aid>External Awards>External Award Tester:0:Add,x,Main Menu>CAL Components>Financial Aid>External Awards>External Award Tester
+Main Menu>Campus Community>Task Management>View Task Activity:0:Add,x,Main Menu>Campus Community>Task Management>View Task Activity
+Main Menu>Campus Community>Checklists>Person Checklists>Person Checklist Summary:0:Update/Display,x,Main Menu>Campus Community>Checklists>Person Checklists>Person Checklist Summary
+Main Menu>Campus Community>Checklists>Person Checklists>Person Tracking Inquiry:0:Update/Display,x,Main Menu>Campus Community>Checklists>Person Checklists>Person Tracking Inquiry
+Main Menu>Campus Community>Checklists>Person Checklists>Person Tracking Summary:0:Update/Display,x,Main Menu>Campus Community>Checklists>Person Checklists>Person Tracking Summary
+Main Menu>Campus Community>Comments>Comments - Person>Person Comment Detail:0:Update/Display,x,Main Menu>Campus Community>Comments>Comments - Person>Person Comment Detail
+Main Menu>Campus Community>Comments>Comments - Person>Person Comment Summary:0:Update/Display,x,Main Menu>Campus Community>Comments>Comments - Person>Person Comment Summary
+Main Menu>SCI Enhancements>Communication Center>Communication Center - Admin:0:Update/Display,x,Main Menu>SCI Enhancements>Communication Center>Communication Center - Admin
+Main Menu>SCI Enhancements>Communication Center>Apply Message:0:Update/Display,x,Main Menu>SCI Enhancements>Communication Center>Apply Message
+Main Menu>Campus Community>Communications>Person Communications>Communication Detail:0:Update/Display,x,Main Menu>Campus Community>Communications>Person Communications>Communication Detail
+Main Menu>Campus Community>Communications>Person Communications>Communication Summary:0:Update/Display,x,Main Menu>Campus Community>Communications>Person Communications>Communication Summary
+Main Menu>Campus Community>Communications>Person Communications>Communication Letter Data:0:Update/Display,x,Main Menu>Campus Community>Communications>Person Communications>Communication Letter Data
+Main Menu>Campus Community>Communications>Organization Communications>Org Communication Summary:0:Update/Display,x,Main Menu>Campus Community>Communications>Organization Communications>Org Communication Summary
+Main Menu>Campus Community>Communications>Organization Communications>Org Communication Letter Data:0:Update/Display,x,Main Menu>Campus Community>Communications>Organization Communications>Org Communication Letter Data
+Main Menu>Campus Community>Communications>Organization Communications>Org Communication Detail:0:Update/Display,x,Main Menu>Campus Community>Communications>Organization Communications>Org Communication Detail
+Main Menu>SCI Enhancements>Communication Center>Communication Center - Admin:1:Update/Display,x,Main Menu>SCI Enhancements>Communication Center>Communication Center - Admin
+Main Menu>Financial Aid>Aid Year Activation>Manage Financial Aid Years:0:Update/Display,x,Main Menu>Financial Aid>Aid Year Activation>Manage Financial Aid Years
+Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Citizenship>Citizenship and Passport:1:Update/Display,x,Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Citizenship>Citizenship and Passport
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 23/24:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 23/24
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 15/16:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 15/16
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 16/17:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 16/17
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 17/18:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 17/18
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>GPA Calc Batch Process Details:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>GPA Calc Batch Process Details
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Look Up by Stdnt:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Look Up by Stdnt
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Change Files:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Change Files
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Roster Batch:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Roster Batch
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Adjustment Rsn Code:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Adjustment Rsn Code
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Installation Table:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Installation Table
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Pay Status Code:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Pay Status Code
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Load Parameters:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Setup>Cal Grant Load Parameters
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Rejected Records:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Rejected Records
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant School Chg Inquiry:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant School Chg Inquiry
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Accepted Records:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Accepted Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR File Review:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR File Review
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 22/23:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 22/23
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 18/19:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 18/19
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 24/25:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Suspense Mgmt 24/25
+Main Menu>CAL Components>Financial Aid>PLUS Loans>PLUS Loan Application:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>PLUS Loans>PLUS Loan Application
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Test Results:0:Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Test Results
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Maintain ISIR Comment Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Maintain ISIR Comment Codes
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Review Equations:0:Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Review Equations
+Main Menu>Financial Aid>Federal Application Data>Update SAP/Verification Status:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Update SAP/Verification Status
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Assign Status to Admit Levels:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Assign Status to Admit Levels
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Level Translation:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Level Translation
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Define Financial Aid Years:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Define Financial Aid Years
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Award Adjustment Reasons:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Award Adjustment Reasons
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Categories:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Categories
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Items:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Items
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Area Translation:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Area Translation
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement ID Table:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement ID Table
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Plan Table:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Plan Table
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Split Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Split Codes
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Test Data:0:Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Test Data
+Main Menu>Set Up SACR>Product Related>Financial Aid>Define Commit Levels:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Define Commit Levels
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Pop Select Parameters:0:Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Pop Select Parameters
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>View COD Edit Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>View COD Edit Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Define External Award Types:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Define External Award Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Define External Award Sources:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Define External Award Sources
+Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Item Type Cross Reference:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Item Type Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Split Cd Formula:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Disbursement Split Cd Formula
+Main Menu>Set Up SACR>Product Related>Financial Aid>Forms Engine Notification>Define Notification Form Types:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Forms Engine Notification>Define Notification Form Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Maintain EDI Transactions:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Maintain EDI Transactions
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>CSL File Load Control:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>CSL File Load Control
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS Assumption Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS Assumption Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Institutional Cross Reference:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Institutional Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>ISIR/SAR Cross Reference:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>ISIR/SAR Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Verification Cross Reference:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Verification Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>EFC Assumption Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>EFC Assumption Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Fiscal Item Types:1:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Fiscal Item Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Careers for Aid Year:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Careers for Aid Year
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Terms for Career:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Terms for Career
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Direct Loan Change Rules:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Direct Loan Change Rules
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Maintain NSLDS Codes:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Maintain NSLDS Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell ID Attending:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell ID Attending
+Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell Comment Code:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell Comment Code
+Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell Payment:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Pell Payment
+Main Menu>Set Up SACR>Product Related>Financial Aid>Define Demographic Data Use:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Define Demographic Data Use
+Main Menu>Financial Aid>Disbursement>View Calendar Settings:0:Update/Display,x,Main Menu>Financial Aid>Disbursement>View Calendar Settings
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Programs for Aid Year:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Valid Programs for Aid Year
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>School Codes for Institution:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>School Codes for Institution
+Main Menu>Set Up SACR>Product Related>Financial Aid>COD>SULA Load Rules:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>COD>SULA Load Rules
+Main Menu>Set Up SACR>Common Definitions>Self Service>Financial Aid>Self Service Loan Status:0:Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Self Service>Financial Aid>Self Service Loan Status
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Term Values Cross Reference:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Term Values Cross Reference
+Main Menu>Financial Aid>File Management>ISIR Corrections>Enter FAFSA Signatures:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>Enter FAFSA Signatures
+Main Menu>Financial Aid>File Management>NSLDS>Review NSLDS Flagged Students:0:Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>Review NSLDS Flagged Students
+Main Menu>Financial Aid>File Management>NSLDS>NSLDS Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>NSLDS Suspense Management
+Main Menu>Financial Aid>File Management>PROFILE Import>Delete PROFILE Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>PROFILE Import>Delete PROFILE Records
+Main Menu>Financial Aid>File Management>PROFILE Import>Load Summary:0:Update/Display,x,Main Menu>Financial Aid>File Management>PROFILE Import>Load Summary
+Main Menu>Financial Aid>File Management>ISIR Import>2023-2024 ISIR File Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2023-2024 ISIR File Data
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2023-2024 Outbound Files:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2023-2024 Outbound Files
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2023-2024 Outbound Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2023-2024 Outbound Data
+Main Menu>Financial Aid>File Management>ISIR Import>2023-2024 Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2023-2024 Suspense Management
+Main Menu>Financial Aid>Federal Application Data>Manage Corrected ISIR Data:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Manage Corrected ISIR Data
+Main Menu>Financial Aid>File Management>Review CPS/NSLDS Transactions:0:Update/Display,x,Main Menu>Financial Aid>File Management>Review CPS/NSLDS Transactions
+Main Menu>Financial Aid>File Management>ISIR Corrections>Modify ISIR School Recipients:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>Modify ISIR School Recipients
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2024-2025 Outbound Files:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2024-2025 Outbound Files
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2024-2025 Outbound Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2024-2025 Outbound Data
+Main Menu>Financial Aid>File Management>ISIR Import>2024-2025 Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2024-2025 Suspense Management
+Main Menu>Financial Aid>File Management>ISIR Import>2024-2025 ISIR File Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2024-2025 ISIR File Data
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2021-2022 Outbound Files:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2021-2022 Outbound Files
+Main Menu>Financial Aid>File Management>ISIR Import>2022-2023 ISIR File Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2022-2023 ISIR File Data
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2022-2023 Outbound Files:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2022-2023 Outbound Files
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2022-2023 Outbound Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2022-2023 Outbound Data
+Main Menu>Financial Aid>File Management>ISIR Import>2022-2023 Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>2022-2023 Suspense Management
+Main Menu>Financial Aid>File Management>ISIR Corrections>View 2021-2022 Outbound Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>View 2021-2022 Outbound Data
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2016-2017 Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2016-2017 Suspense Management
+Main Menu>Financial Aid>Financial Aid History>Application Information>Institutional Detail 2016-2017:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>Institutional Detail 2016-2017
+Main Menu>Financial Aid>Financial Aid History>View Archived Application Data:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Archived Application Data
+Main Menu>Financial Aid>Financial Aid History>Application Information>View Prior Year(s) Application:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>View Prior Year(s) Application
+Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Worksheet:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Worksheet
+Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Summary of TIV Return:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Summary of TIV Return
+Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Track PW Disbursement:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Track PW Disbursement
+Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Track TIV Funds Return:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Return of Title IV Funds>View Track TIV Funds Return
+Main Menu>Financial Aid>Financial Aid History>View Archived Direct Loan Data:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Archived Direct Loan Data
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2016-2017 ISIR File Data:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2016-2017 ISIR File Data
+Main Menu>Financial Aid>Financial Aid History>Application Information>Institutional Detail 2017-2018:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>Institutional Detail 2017-2018
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2017-2018 ISIR File Data:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2017-2018 ISIR File Data
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2017-2018 Suspense Management:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>2017-2018 Suspense Management
+Main Menu>Financial Aid>Financial Aid History>Application Information>View 2018 Verification Data:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>View 2018 Verification Data
+Main Menu>Financial Aid>Federal Application Data>Simulate 2018-2019 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2018-2019 FM INAS
+Main Menu>Financial Aid>Federal Application Data>Simulate 2022-2023 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2022-2023 FM INAS
+Main Menu>Financial Aid>Institutional Application Data>View 2022-2023 IM EFC Detail:0:Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>View 2022-2023 IM EFC Detail
+Main Menu>Financial Aid>Federal Application Data>Simulate 2019-2020 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2019-2020 FM INAS
+Main Menu>Financial Aid>Federal Application Data>Simulate 2020-2021 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2020-2021 FM INAS
+Main Menu>Financial Aid>Budgets>View Student Budget Summary:0:Update/Display,x,Main Menu>Financial Aid>Budgets>View Student Budget Summary
+Main Menu>Financial Aid>Institutional Application Data>View Profile Audit Fields:0:Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>View Profile Audit Fields
+Main Menu>Financial Aid>Federal Application Data>View ISIR Field Audits:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>View ISIR Field Audits
+Main Menu>Financial Aid>Budgets>View Batch Budget Details:0:Update/Display,x,Main Menu>Financial Aid>Budgets>View Batch Budget Details
+Main Menu>Financial Aid>Verification>View Verification Detail:0:Update/Display,x,Main Menu>Financial Aid>Verification>View Verification Detail
+Main Menu>Financial Aid>Verification>View Verification Summary:0:Update/Display,x,Main Menu>Financial Aid>Verification>View Verification Summary
+Main Menu>Financial Aid>Verification>View Batch Consolidation:0:Update/Display,x,Main Menu>Financial Aid>Verification>View Batch Consolidation
+Main Menu>Financial Aid>Verification>Perform Auto Verification:0:Update/Display,x,Main Menu>Financial Aid>Verification>Perform Auto Verification
+Main Menu>Financial Aid>Institutional Application Data>View 2023-2024 IM EFC Detail:0:Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>View 2023-2024 IM EFC Detail
+Main Menu>Financial Aid>Federal Application Data>Simulate 2023-2024 FM:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2023-2024 FM
+Main Menu>Financial Aid>Disbursement>Maintain User Edit Messages:0:Update/Display,x,Main Menu>Financial Aid>Disbursement>Maintain User Edit Messages
+Main Menu>Financial Aid>Budgets>Create Student Budget:0:Update/Display,x,Main Menu>Financial Aid>Budgets>Create Student Budget
+Main Menu>Financial Aid>Federal Application Data>Simulate 2017-2018 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2017-2018 FM INAS
+Main Menu>Financial Aid>Institutional Application Data>View 2024-2025 IM EFC Detail:0:Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>View 2024-2025 IM EFC Detail
+Main Menu>Financial Aid>Verification>Manage 2024-2025 Verification:0:Update/Display,x,Main Menu>Financial Aid>Verification>Manage 2024-2025 Verification
+Main Menu>Financial Aid>Federal Application Data>Simulate 2021-2022 FM INAS:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>Simulate 2021-2022 FM INAS
+Main Menu>Financial Aid>Awards>Aggregates>View Aggregate Aid:0:Update/Display,x,Main Menu>Financial Aid>Awards>Aggregates>View Aggregate Aid
+Main Menu>Financial Aid>Awards>View Anticipated Aid Item Type:0:Update/Display,x,Main Menu>Financial Aid>Awards>View Anticipated Aid Item Type
+Main Menu>Financial Aid>Awards>View Anticipated Aid by Term:0:Update/Display,x,Main Menu>Financial Aid>Awards>View Anticipated Aid by Term
+Main Menu>Financial Aid>Awards>View by Date:0:Update/Display,x,Main Menu>Financial Aid>Awards>View by Date
+Main Menu>Financial Aid>Awards>View Award Activity:0:Update/Display,x,Main Menu>Financial Aid>Awards>View Award Activity
+Main Menu>Financial Aid>Awards>View Award Category Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>View Award Category Summary
+Main Menu>Financial Aid>Awards>Notification Letter>Award Notification Inquiry:0:Update/Display,x,Main Menu>Financial Aid>Awards>Notification Letter>Award Notification Inquiry
+Main Menu>Financial Aid>Fund Management>Fiscal Aggregate Summary:0:Update/Display,x,Main Menu>Financial Aid>Fund Management>Fiscal Aggregate Summary
+Main Menu>Financial Aid>Awards>External Awards>External Award Load Detail:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>External Award Load Detail
+Main Menu>Financial Aid>Awards>External Awards>External Award Load Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>External Award Load Summary
+Main Menu>Financial Aid>Awards>External Awards>View Data File Staging Results:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>View Data File Staging Results
+Main Menu>Financial Aid>Awards>Aggregates>View Aggregate Program Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>Aggregates>View Aggregate Program Summary
+Main Menu>Financial Aid>Awards>View Term Award Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>View Term Award Summary
+Main Menu>Financial Aid>Disbursement>View Disbursement Status:0:Update/Display,x,Main Menu>Financial Aid>Disbursement>View Disbursement Status
+Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Errors:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Errors
+Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Details:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Details
+Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Mass Packaging Summary
+Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Details:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Details
+Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Errors:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Errors
+Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Summary:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Batch Repackaging Summary
+Main Menu>Financial Aid>Awards>External Awards>View Self Reported Aid:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>View Self Reported Aid
+Main Menu>Financial Aid>View Financial Aid Status:0:Update/Display,x,Main Menu>Financial Aid>View Financial Aid Status
+Main Menu>Financial Aid>Awards>Award Processing>Expire Anticipated Aid:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Expire Anticipated Aid
+Main Menu>Financial Aid>Awards>Award Processing>Assign Awards to a Student:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Assign Awards to a Student
+Main Menu>Financial Aid>Awards>Award Processing>Assign Departmental Awards:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Assign Departmental Awards
+Main Menu>Financial Aid>Awards>Notification Letter>Award Notification One-Up:0:Update/Display,x,Main Menu>Financial Aid>Awards>Notification Letter>Award Notification One-Up
+Main Menu>Financial Aid>Awards>Award Processing>Invoke Professional Judgment:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Invoke Professional Judgment
+Main Menu>Financial Aid>Awards>Award Processing>Perform Mass Action:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Perform Mass Action
+Main Menu>Financial Aid>Disbursement>Disburse Aid:0:Update/Display,x,Main Menu>Financial Aid>Disbursement>Disburse Aid
+Main Menu>Financial Aid>Disbursement>Disburse Aid With Override:0:Update/Display,x,Main Menu>Financial Aid>Disbursement>Disburse Aid With Override
+Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Query:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Query
+Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Plan:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Plan
+Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Students:0:Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>View Results by Students
+Main Menu>Financial Aid>View Packaging Status Summary:0:Update/Display,x,Main Menu>Financial Aid>View Packaging Status Summary
+Main Menu>Financial Aid>Awards>Maintain User Edit Messages:0:Update/Display,x,Main Menu>Financial Aid>Awards>Maintain User Edit Messages
+Main Menu>Financial Aid>Awards>External Awards>Add External Awards to Student:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Add External Awards to Student
+Main Menu>Financial Aid>Awards>External Awards>Add External Awards by Type:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Add External Awards by Type
+Main Menu>Financial Aid>Awards>External Awards>Manage External Award Data:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Manage External Award Data
+Main Menu>Financial Aid>Awards>External Awards>Manage External Awards by Type:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Manage External Awards by Type
+Main Menu>Financial Aid>Awards>External Awards>Manage Student External Awards:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Manage Student External Awards
+Main Menu>Financial Aid>Awards>External Awards>Manage Awards by Status:0:Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Manage Awards by Status
+Main Menu>Financial Aid>Awards>Repackaging>View Assigned Plans:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Assigned Plans
+Main Menu>Financial Aid>Awards>Repackaging>View Selected Students:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Selected Students
+Main Menu>Financial Aid>Awards>Repackaging>View Students by Plan:0:Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>View Students by Plan
+Main Menu>Financial Aid>Return to Title IV Funds>Track PW Disbursement:0:Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Track PW Disbursement
+Main Menu>Financial Aid>Return to Title IV Funds>Track TIV Funds Return:0:Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Track TIV Funds Return
+Main Menu>Financial Aid>Return to Title IV Funds>Review Summary of TIV Return:0:Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Review Summary of TIV Return
+Main Menu>Financial Aid>Awards>Award Processing>Identify Education Resources:0:Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Identify Education Resources
+Main Menu>Financial Aid>Loans>Commonline Management>Override Loan Status:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Override Loan Status
+Main Menu>Financial Aid>Financial Aid History>View Originated Loans:0:Update/Display,x,Main Menu>Financial Aid>Financial Aid History>View Originated Loans
+Main Menu>Financial Aid>File Management>Loan Counseling>Manage COD Counseling Suspense:0:Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>Manage COD Counseling Suspense
+Main Menu>Financial Aid>Loans>Commonline Management>Maintain Originated Loans:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Maintain Originated Loans
+Main Menu>Financial Aid>Loans>Commonline Management>Enter ALT Loan Prom Notes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Enter ALT Loan Prom Notes
+Main Menu>Financial Aid>Loans>Commonline Management>Enter PLUS Prom Notes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Enter PLUS Prom Notes
+Main Menu>Financial Aid>Loans>Commonline Management>Enter Stafford Prom Notes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Enter Stafford Prom Notes
+Main Menu>Financial Aid>File Management>Loan Counseling>Manage Exit Counsel Suspense:0:Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>Manage Exit Counsel Suspense
+Main Menu>Financial Aid>Loans>View Lender Selection:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Lender Selection
+Main Menu>Financial Aid>Loans>Commonline Management>View CL4 PLUS/Alt Prom Notes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CL4 PLUS/Alt Prom Notes
+Main Menu>Financial Aid>Loans>Commonline Management>View CL4 Stafford Prom Notes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CL4 Stafford Prom Notes
+Main Menu>Financial Aid>Loans>Direct Lending Management>Hold/Suspend Change Data:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Hold/Suspend Change Data
+Main Menu>Financial Aid>Loans>Direct Lending Management>Review Promissory Note Actions:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Review Promissory Note Actions
+Main Menu>Financial Aid>Loans>View Promissory Note:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Promissory Note
+Main Menu>Financial Aid>Loans>Direct Lending Management>Override Processing Status:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Override Processing Status
+Main Menu>Financial Aid>Loans>Direct Lending Management>Override Loan Application Data:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Override Loan Application Data
+Main Menu>Financial Aid>File Management>Commonline Loans>Review CL 4 File Transactions:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Review CL 4 File Transactions
+Main Menu>Financial Aid>Loans>Commonline Management>Maintain CL Disbursements:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Maintain CL Disbursements
+Main Menu>Financial Aid>Loans>Direct Lending Management>Review Manifest Batches:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Review Manifest Batches
+Main Menu>Financial Aid>Loans>Direct Lending Management>Manage Direct Loan Application:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Manage Direct Loan Application
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>View Direct Loan Change Fields:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>View Direct Loan Change Fields
+Main Menu>Financial Aid>Loans>Direct Lending Management>View Promissory Note Actions:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>View Promissory Note Actions
+Main Menu>Financial Aid>Loans>Commonline Management>Review Hold/Release Errors:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Review Hold/Release Errors
+Main Menu>Financial Aid>Loans>Review Exception Messages:0:Update/Display,x,Main Menu>Financial Aid>Loans>Review Exception Messages
+Main Menu>Financial Aid>Loans>View Loan Transfer ID Records:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Loan Transfer ID Records
+Main Menu>Financial Aid>Loans>View Disbursement Status:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Disbursement Status
+Main Menu>Financial Aid>Loans>Direct Lending Management>View Loan Processing Actions:0:Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>View Loan Processing Actions
+Main Menu>Financial Aid>Loans>Commonline Management>Loan Transmission Information:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Loan Transmission Information
+Main Menu>Financial Aid>Loans>View Loan Application Status:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Loan Application Status
+Main Menu>Financial Aid>Loans>View Originated Loans:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Originated Loans
+Main Menu>Financial Aid>Loans>Commonline Management>View CRC Loan Status Codes:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CRC Loan Status Codes
+Main Menu>Financial Aid>File Management>Commonline Loans>CRC Document Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>CRC Document Management
+Main Menu>Financial Aid>File Management>Commonline Loans>CRC Award Management:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>CRC Award Management
+Main Menu>Financial Aid>File Management>Loan Counseling>View Exit Counseling Staging:0:Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>View Exit Counseling Staging
+Main Menu>Financial Aid>Loans>View Perkins Loan Indebtedness:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Perkins Loan Indebtedness
+Main Menu>Financial Aid>File Management>Commonline Loans>Business Document Errors:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Business Document Errors
+Main Menu>Financial Aid>File Management>Commonline Loans>Business Document Summary:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Business Document Summary
+Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 EFT Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 EFT Records
+Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Change Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Change Records
+Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Application Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Application Records
+Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Response Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>View CL 4 Response Records
+Main Menu>Financial Aid>Loans>Commonline Management>View CL 4 Lenders:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CL 4 Lenders
+Main Menu>Financial Aid>Loans>Commonline Management>View CL 4 Loan Servicers:0:Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CL 4 Loan Servicers
+Main Menu>Financial Aid>File Management>Commonline Loans>View CRC Staging Table Records:0:Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>View CRC Staging Table Records
+Main Menu>Financial Aid>Loans>View Perkins MPN:0:Update/Display,x,Main Menu>Financial Aid>Loans>View Perkins MPN
+Main Menu>Financial Aid>File Management>Pell Grants>Review Pell Outbound Batches:0:Update/Display,x,Main Menu>Financial Aid>File Management>Pell Grants>Review Pell Outbound Batches
+Main Menu>Financial Aid>File Management>Pell Grants>View Pell Phase-In Inbound:0:Update/Display,x,Main Menu>Financial Aid>File Management>Pell Grants>View Pell Phase-In Inbound
+Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Review Statement of Account:0:Update/Display,x,Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Review Statement of Account
+Main Menu>Financial Aid>File Management>Pell Grants>View Pell Data Request:0:Update/Display,x,Main Menu>Financial Aid>File Management>Pell Grants>View Pell Data Request
+Main Menu>Financial Aid>Pell Payment>Multiple Reporting>Review MRR:0:Update/Display,x,Main Menu>Financial Aid>Pell Payment>Multiple Reporting>Review MRR
+Main Menu>Financial Aid>File Management>Pell Grants>View Pell Phase-In Outbound:0:Update/Display,x,Main Menu>Financial Aid>File Management>Pell Grants>View Pell Phase-In Outbound
+Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Review Reconciliation:0:Update/Display,x,Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Review Reconciliation
+Main Menu>Financial Aid>Pell Payment>Year To Date Reports>Review YTD Records:0:Update/Display,x,Main Menu>Financial Aid>Pell Payment>Year To Date Reports>Review YTD Records
+Main Menu>Financial Aid>File Management>COD Full Participant>View COD Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>View COD Data
+Main Menu>Financial Aid>Pell Payment>Manage Pell Payment:0:Update/Display,x,Main Menu>Financial Aid>Pell Payment>Manage Pell Payment
+Main Menu>Financial Aid>File Management>COD Full Participant>Federal Work Study Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Federal Work Study Data
+Main Menu>Financial Aid>File Management>COD Full Participant>View FWS COD Data:0:Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>View FWS COD Data
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging by Query:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging by Query
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging Students:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging Students
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging by Plan:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>INST Mass Packaging by Plan
+Main Menu>Financial Aid>Federal Application Data>FM Test Harness:0:Update/Display,x,Main Menu>Financial Aid>Federal Application Data>FM Test Harness
+Main Menu>Financial Aid>Institutional Application Data>IM Test Harness:0:Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>IM Test Harness
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Pell Table Load:1:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Pell Table Load
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Pell Table Compare:1:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Pell Table Compare
+Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Evaluation Aid Year:0:Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Evaluation Aid Year
+Main Menu>Financial Aid>Satisfactory Academic Progress>Review Report Data:0:Update/Display,x,Main Menu>Financial Aid>Satisfactory Academic Progress>Review Report Data
+Main Menu>Records and Enrollment>Career and Program Information>View Student Groups by Student:0:Update/Display,x,Main Menu>Records and Enrollment>Career and Program Information>View Student Groups by Student
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Variables:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Variables
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>File Name Template:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>File Name Template
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process System Definitions:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process System Definitions
+Main Menu>CAL Components>Utilities>Import/Export Service>Export>Export:0:Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Export>Export
+Main Menu>CAL Components>Utilities>Import/Export Service>Import>Import:0:Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Import>Import
+Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review Import/Export Logs:0:Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review Import/Export Logs
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Configuration:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Configuration
+Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Inquire Process Summary:0:Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Inquire Process Summary
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>File Directory Template:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>File Directory Template
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>FTP Command:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>FTP Command
+Main Menu>CAL Components>Utilities>Import/Export Service>File Transfer:0:Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>File Transfer
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Import/Export Objects:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Import/Export Objects
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Import/Export Mapping:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Import/Export Mapping
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Definition:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Process Definition
+Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Database Triggers:1:Update/Display,x,Main Menu>CAL Components>Utilities>Administration>Import/Export Config>Database Triggers
+Main Menu>CAL Components>Financial Aid>ACS>Configure ACS:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>ACS>Configure ACS
+Main Menu>CAL Components>Financial Aid>Academic Participation>Student AP Confirmation Review:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Academic Participation>Student AP Confirmation Review
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Budget Group Setup:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Budget Group Setup
+Main Menu>CAL Components>Financial Aid>ISIR QA Verification>ISIR QA Test Setup:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>ISIR QA Verification>ISIR QA Test Setup
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Summer Term Aid Year Setup:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Summer Term Aid Year Setup
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Title IV Setup:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Title IV Setup
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Terms and Conditions Setup:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Terms and Conditions Setup
+Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Type Crosswalk:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Type Crosswalk
+Main Menu>CAL Components>Financial Aid>Self-Service>Fluid>Housing Type:0:Update/Display,x,Main Menu>CAL Components>Financial Aid>Self-Service>Fluid>Housing Type
+Main Menu>Campus Community>Task Management Work Center:0:Update/Display,x,Main Menu>Campus Community>Task Management Work Center
+Main Menu>Campus Community>Task Management>Task List:0:Update/Display,x,Main Menu>Campus Community>Task Management>Task List
+Main Menu>Campus Community>Task Management>View Agreements:0:Update/Display,x,Main Menu>Campus Community>Task Management>View Agreements
+Main Menu>Campus Community>Comments>Comments - Person>Person Comment Entry:0:Add Update/Display,x,Main Menu>Campus Community>Comments>Comments - Person>Person Comment Entry
+Main Menu>SCI Enhancements>Communication Center>Message Installation Table:0:Add Update/Display,x,Main Menu>SCI Enhancements>Communication Center>Message Installation Table
+Main Menu>SCI Enhancements>Communication Center>Message Expiration Process:0:Add Update/Display,x,Main Menu>SCI Enhancements>Communication Center>Message Expiration Process
+Main Menu>Campus Community>Communications>Run 3C Engine:0:Add Update/Display,x,Main Menu>Campus Community>Communications>Run 3C Engine
+Main Menu>Campus Community>Communications>Communication Generation:0:Add Update/Display,x,Main Menu>Campus Community>Communications>Communication Generation
+Main Menu>Campus Community>Communications>Person Communications>Communication Management:0:Add Update/Display,x,Main Menu>Campus Community>Communications>Person Communications>Communication Management
+Main Menu>Campus Community>Communications>Organization Communications>Communication - Organization:0:Add Update/Display,x,Main Menu>Campus Community>Communications>Organization Communications>Communication - Organization
+Main Menu>Financial Aid>Aid Year Activation>Process Financial Aid Years:0:Add Update/Display,x,Main Menu>Financial Aid>Aid Year Activation>Process Financial Aid Years
+Main Menu>Financial Aid>Financial Aid Term>Update FA Progress Units:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid Term>Update FA Progress Units
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Output Suspense:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Output Suspense
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Suspense:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Suspense
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Student Consent for Upld GPA:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Student Consent for Upld GPA
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Correction Reporting:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Correction Reporting
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Payment Reporting:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Payment Reporting
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Outbound MCS Roster Changes:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Outbound MCS Roster Changes
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Process>Cal ISIR Inbound:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Process>Cal ISIR Inbound
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Process>Cal ISIR Load:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Process>Cal ISIR Load
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Award Status Response:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Award Status Response
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run School Change Extract:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run School Change Extract
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant 3C Event Process:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant 3C Event Process
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Cal Grant Extract Snd File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Cal Grant Extract Snd File
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Changes:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Changes
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>CSAC Accept/Reject Data Load:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>CSAC Accept/Reject Data Load
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Output Susp:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Output Susp
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Create Cal Grant Output:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Create Cal Grant Output
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Import Cal Grant Roster:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Import Cal Grant Roster
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Update:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Load Cal Grant Update
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant Search/Match:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant Search/Match
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run HS Confirmation File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run HS Confirmation File
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Reconciliation:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Run Reconciliation
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Run MCS Admissions Selection:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Run MCS Admissions Selection
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Run MCS Enrollment Selection:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Run MCS Enrollment Selection
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Export MCS Adm/Enroll File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Export MCS Adm/Enroll File
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Export MCS Change File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Export MCS Change File
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Create Adm/Enroll File Data:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Create Adm/Enroll File Data
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Load MCS Roster:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Load MCS Roster
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Import MCS Roster File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>Import MCS Roster File
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Roster Validation:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Roster Validation
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Search/Match:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Process>MCS Search/Match
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant Predictor:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Process>Cal Grant Predictor
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Setup>Cal ISIR Comment Codes:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Setup>Cal ISIR Comment Codes
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Setup>Middle Class Scholarship Setup:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Setup>Middle Class Scholarship Setup
+Main Menu>CAL Components>Financial Aid>PLUS Loans>Link PLUS Loans:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>PLUS Loans>Link PLUS Loans
+Main Menu>CAL Components>Financial Aid>PLUS Loans>Load PLUS Loans:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>PLUS Loans>Load PLUS Loans
+Main Menu>CAL Components>Financial Aid>PLUS Loans>Process PLUS Loans:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>PLUS Loans>Process PLUS Loans
+Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Batch Checklist Assign:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Batch Checklist Assign
+Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Lifetime Checklist Config:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Lifetime Checklist Config
+Main Menu>CAL Components>Financial Aid>PLUS Loans>PLUS Loan Configuration:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>PLUS Loans>PLUS Loan Configuration
+Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC POP Selection Event ID Conf:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC POP Selection Event ID Conf
+Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Query Parameter Config:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>UC Checklist Assignment>UC Query Parameter Config
+Main Menu>CAL Components>Financial Aid>Award Aggregates>Loan Aggregate Update:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Award Aggregates>Loan Aggregate Update
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Aid Year Setup:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Aid Year Setup
+Main Menu>Financial Aid>Financial Aid Term>Build FA Term in Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid Term>Build FA Term in Batch
+Main Menu>Financial Aid>Financial Aid Term>Create FA Term Driver Records:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid Term>Create FA Term Driver Records
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Run Equation:0:Add Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Run Equation
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Print Equations:0:Add Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Print Equations
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Programs:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Programs
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Award Messages:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Award Messages
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Groups:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Groups
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Aid Processing Rule Setup:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Aid Processing Rule Setup
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Area for Institution:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Area for Institution
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Careers for School Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Careers for School Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Create Proration Rules:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Create Proration Rules
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Application Prompts:0:Add Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Application Prompts
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Global Space:0:Add Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Global Space
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Define Rules for Return:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Define Rules for Return
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Campus OPEID Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Campus OPEID Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>COD>Credential Cross Reference:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>COD>Credential Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>View COD XML Fields:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>View COD XML Fields
+Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Search/Match Rules:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>External Awards>Search/Match Rules
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Define EDI Business Unit:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Define EDI Business Unit
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Define Federal Aid Years:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>Define Federal Aid Years
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Guarantor Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Guarantor Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Keywords:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Keywords
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Guarantors:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Guarantors
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Loan Institutions:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Loan Institutions
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Lenders:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Lenders
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Lender Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Lender Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Reassign Loan Agencies:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Reassign Loan Agencies
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Create Loan Destinations:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Create Loan Destinations
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Create Loan Edit Sets:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Create Loan Edit Sets
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Serial Promissory Notes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Serial Promissory Notes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Action Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Action Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Transfer ID:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Transfer ID
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Create Loan Types:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Create Loan Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Servicers:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Define School Servicers
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>COD Routing ID Cross Reference:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>COD Routing ID Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Maintain CRC Loan Status Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Maintain CRC Loan Status Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Participants:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Participants
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Edit Sets:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Edit Sets
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>NSLDS OPEID Cross Reference:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>NSLDS OPEID Cross Reference
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Define Careers for Prospects:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>Define Careers for Prospects
+Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Reconciliation Periods:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Pell Grants>Reconciliation Periods
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Restricted Aid Table:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Restricted Aid Table
+Main Menu>Set Up SACR>Product Related>Financial Aid>College Financing Plan:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>College Financing Plan
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Loan Servicer Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Loan Servicer Codes
+Main Menu>Set Up SACR>Common Definitions>Self Service>Financial Aid>Self Service Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Common Definitions>Self Service>Financial Aid>Self Service Options
+Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>School Code Table:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Aid Year>School Code Table
+Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Create User Edit Messages:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Create User Edit Messages
+Main Menu>Financial Aid>File Management>ISIR Import>CPS Reject/Assumption Report:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>CPS Reject/Assumption Report
+Main Menu>Financial Aid>File Management>ISIR Import>ISIR Suspense Detail Report:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>ISIR Suspense Detail Report
+Main Menu>Financial Aid>File Management>NSLDS>NSLDS FAT Load Error Report:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>NSLDS FAT Load Error Report
+Main Menu>Financial Aid>File Management>ISIR Corrections>Process ISIR Corrections:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>Process ISIR Corrections
+Main Menu>Financial Aid>File Management>INAS Batch Calculation:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>INAS Batch Calculation
+Main Menu>Financial Aid>File Management>ISIR Import>Process ISIRs:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Import>Process ISIRs
+Main Menu>Financial Aid>File Management>ISIR Corrections>Process ISIR Correction Errors:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>ISIR Corrections>Process ISIR Correction Errors
+Main Menu>Financial Aid>File Management>Import Federal Data Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Import Federal Data Files
+Main Menu>Financial Aid>File Management>Create Federal Data Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Create Federal Data Files
+Main Menu>Financial Aid>File Management>PROFILE Import>Load Records:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>PROFILE Import>Load Records
+Main Menu>Financial Aid>File Management>NSLDS>Process NSLDS Request:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>Process NSLDS Request
+Main Menu>Financial Aid>File Management>NSLDS>Update Aggregates with NSLDS:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>Update Aggregates with NSLDS
+Main Menu>Financial Aid>File Management>NSLDS>Process NSLDS Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>NSLDS>Process NSLDS Files
+Main Menu>Financial Aid>File Management>Mass EFC Calculation:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Mass EFC Calculation
+Main Menu>Financial Aid>Print Batch Process Messages:0:Add Update/Display,x,Main Menu>Financial Aid>Print Batch Process Messages
+Main Menu>Financial Aid>Financial Aid History>Application Information>View 2016-2017 Application:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>View 2016-2017 Application
+Main Menu>Financial Aid>Financial Aid History>Application Information>View 2017-2018 Application:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid History>Application Information>View 2017-2018 Application
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2022-2023 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2022-2023 Global Options
+Main Menu>Financial Aid>Institutional Application Data>Maintain Application 2022-2023:0:Add Update/Display,x,Main Menu>Financial Aid>Institutional Application Data>Maintain Application 2022-2023
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2020-2021 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2020-2021 Global Options
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2019-2020 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2019-2020 Global Options
+Main Menu>Financial Aid>Budgets>Assign Budgets>Select Students:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Select Students
+Main Menu>Financial Aid>Budgets>Assign Budgets>Adjust Pell Budgets in Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Adjust Pell Budgets in Batch
+Main Menu>Financial Aid>Verification>Perform Batch Verification:0:Add Update/Display,x,Main Menu>Financial Aid>Verification>Perform Batch Verification
+Main Menu>Financial Aid>Verification>Perform Batch Consolidation:0:Add Update/Display,x,Main Menu>Financial Aid>Verification>Perform Batch Consolidation
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>NA 2024-2025 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>NA 2024-2025 Global Options
+Main Menu>Financial Aid>Budgets>Assign Budgets>Process Formula:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Process Formula
+Main Menu>Financial Aid>Budgets>Assign Budgets>Process Tuition:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Process Tuition
+Main Menu>Financial Aid>Budgets>Assign Budgets>Move Budget to Students:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Move Budget to Students
+Main Menu>Financial Aid>Budgets>Assign Budgets>Maintain Budget Work Table:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Maintain Budget Work Table
+Main Menu>Financial Aid>Budgets>Assign Budgets>Process Equation:0:Add Update/Display,x,Main Menu>Financial Aid>Budgets>Assign Budgets>Process Equation
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2021-2022 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>INAS 2021-2022 Global Options
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>NA 2023-2024 Global Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>NA 2023-2024 Global Options
+Main Menu>Financial Aid>Return to Title IV Funds>Create Worksheet:0:Add Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Create Worksheet
+Main Menu>Financial Aid>Awards>Award Processing>Assign Packaging Variables:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Assign Packaging Variables
+Main Menu>Financial Aid>Awards>Award Processing>Assign Packaging Ratings:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Assign Packaging Ratings
+Main Menu>Financial Aid>Awards>Mass Packaging>Assign Plans:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>Assign Plans
+Main Menu>Financial Aid>Awards>Mass Packaging>Process Mass Packaging:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>Process Mass Packaging
+Main Menu>Financial Aid>Awards>Mass Packaging>Select Students:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>Select Students
+Main Menu>Financial Aid>Disbursement>Process Award Authorizations:0:Add Update/Display,x,Main Menu>Financial Aid>Disbursement>Process Award Authorizations
+Main Menu>Financial Aid>Awards>Self Service Awarding>Post Self Service Awards:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Self Service Awarding>Post Self Service Awards
+Main Menu>Financial Aid>Awards>Award Processing>Process Pell Schedule Test:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Process Pell Schedule Test
+Main Menu>Financial Aid>Disbursement>Process Disbursements:0:Add Update/Display,x,Main Menu>Financial Aid>Disbursement>Process Disbursements
+Main Menu>Financial Aid>Awards>Notification Letter>Award Notification Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Notification Letter>Award Notification Batch
+Main Menu>Financial Aid>Ability to Benefit>Create Ability to Benefit:0:Add Update/Display,x,Main Menu>Financial Aid>Ability to Benefit>Create Ability to Benefit
+Main Menu>Financial Aid>Awards>External Awards>Load External Awards:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Load External Awards
+Main Menu>Financial Aid>Awards>External Awards>Process External Award File:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>External Awards>Process External Award File
+Main Menu>Financial Aid>Disbursement>Process User Edit Messages:0:Add Update/Display,x,Main Menu>Financial Aid>Disbursement>Process User Edit Messages
+Main Menu>Financial Aid>Awards>Aggregates>Update Pell Percent Used:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Aggregates>Update Pell Percent Used
+Main Menu>Financial Aid>Awards>Repackaging>Process Batch Repackaging:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>Process Batch Repackaging
+Main Menu>Financial Aid>Awards>Repackaging>Assign Repackaging Plans:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>Assign Repackaging Plans
+Main Menu>Financial Aid>Awards>Repackaging>Select Students to Repackage:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Repackaging>Select Students to Repackage
+Main Menu>Financial Aid>Awards>Award Processing>Update School Code:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Update School Code
+Main Menu>Financial Aid>Awards>Aggregates>Assign Aggregate Source:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Aggregates>Assign Aggregate Source
+Main Menu>Financial Aid>Awards>Self Service Awarding>Assign Self Service Access:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Self Service Awarding>Assign Self Service Access
+Main Menu>Financial Aid>Awards>Award Processing>Batch Expire Anticipated Aid:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Award Processing>Batch Expire Anticipated Aid
+Main Menu>Financial Aid>Fund Management>FA801 Award Data by Item Type:0:Add Update/Display,x,Main Menu>Financial Aid>Fund Management>FA801 Award Data by Item Type
+Main Menu>Financial Aid>Fund Management>Fund Roster:0:Add Update/Display,x,Main Menu>Financial Aid>Fund Management>Fund Roster
+Main Menu>Financial Aid>Return to Title IV Funds>Return of TIV Aid Report:0:Add Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Return of TIV Aid Report
+Main Menu>Financial Aid>Financial Aid Term>FA Term Census Report:0:Add Update/Display,x,Main Menu>Financial Aid>Financial Aid Term>FA Term Census Report
+Main Menu>Financial Aid>Awards>Mass Packaging>Mass Packaging Detail Report:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Mass Packaging>Mass Packaging Detail Report
+Main Menu>Financial Aid>Disbursement>Reconciliation Report:0:Add Update/Display,x,Main Menu>Financial Aid>Disbursement>Reconciliation Report
+Main Menu>Financial Aid>Disbursement>Authorization Failure Report:0:Add Update/Display,x,Main Menu>Financial Aid>Disbursement>Authorization Failure Report
+Main Menu>Financial Aid>Awards>Generate Over Award Report:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Generate Over Award Report
+Main Menu>Financial Aid>Fund Management>Generate FISAP Reports>FISAP Report 2015-2016:0:Add Update/Display,x,Main Menu>Financial Aid>Fund Management>Generate FISAP Reports>FISAP Report 2015-2016
+Main Menu>Set Up SACR>Product Related>Financial Aid>Student Eligibility Codes:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Student Eligibility Codes
+Main Menu>Financial Aid>Return to Title IV Funds>Return TIV Session:0:Add Update/Display,x,Main Menu>Financial Aid>Return to Title IV Funds>Return TIV Session
+Main Menu>Financial Aid>Ability to Benefit>Manage Ability to Benefit:0:Add Update/Display,x,Main Menu>Financial Aid>Ability to Benefit>Manage Ability to Benefit
+Main Menu>Financial Aid>Awards>Need Summary Validation:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Need Summary Validation
+Main Menu>Financial Aid>Awards>Aggregates>Update Incoming Aggregates:0:Add Update/Display,x,Main Menu>Financial Aid>Awards>Aggregates>Update Incoming Aggregates
+Main Menu>Financial Aid>Loans>Manage Loan Counseling Data:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Manage Loan Counseling Data
+Main Menu>Financial Aid>File Management>Commonline Loans>Process CL 4 Outbound Records:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Process CL 4 Outbound Records
+Main Menu>Financial Aid>File Management>Direct Loans>Generate Phase-In Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Direct Loans>Generate Phase-In Data
+Main Menu>Financial Aid>Loans>Create PNote Communication:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Create PNote Communication
+Main Menu>Financial Aid>Loans>Print Promissory Note:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Print Promissory Note
+Main Menu>Financial Aid>File Management>Direct Loans>Import Phase-In Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Direct Loans>Import Phase-In Data
+Main Menu>Financial Aid>File Management>Direct Loans>Generate Direct Loan Manifest:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Direct Loans>Generate Direct Loan Manifest
+Main Menu>Financial Aid>File Management>Commonline Loans>Rename Outbound Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Rename Outbound Files
+Main Menu>Financial Aid>File Management>Loan Counseling>Process COD Counseling Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>Process COD Counseling Data
+Main Menu>Financial Aid>Loans>Commonline Management>Validate CRC Loans:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Validate CRC Loans
+Main Menu>Financial Aid>Loans>Process Loan Dates:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Process Loan Dates
+Main Menu>Financial Aid>File Management>COD Full Participant>Import COD Response Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Import COD Response Data
+Main Menu>Financial Aid>File Management>Commonline Loans>Process CRC Inbound Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Process CRC Inbound Files
+Main Menu>Financial Aid>File Management>Commonline Loans>Inbound CRC XML Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Inbound CRC XML Files
+Main Menu>Financial Aid>File Management>Commonline Loans>Process CRC Outbound Records:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Process CRC Outbound Records
+Main Menu>Financial Aid>File Management>COD Full Participant>Generate Direct Loan Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Generate Direct Loan Data
+Main Menu>Financial Aid>File Management>Loan Counseling>Process Exit Counseling Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>Process Exit Counseling Data
+Main Menu>Financial Aid>File Management>Loan Counseling>Add Loan Counseling Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Loan Counseling>Add Loan Counseling Data
+Main Menu>Financial Aid>Loans>Print Perkins MPN:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Print Perkins MPN
+Main Menu>Financial Aid>Loans>DL School Account Summary>Generate DLSAS Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>DL School Account Summary>Generate DLSAS Report
+Main Menu>Financial Aid>Loans>DL School Account Summary>Generate Reconciliation Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>DL School Account Summary>Generate Reconciliation Report
+Main Menu>Financial Aid>Loans>Direct Lending Management>Print Manifest Report - PLUS:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Print Manifest Report - PLUS
+Main Menu>Financial Aid>Loans>Direct Lending Management>Print Manifest Report-Stafford:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Print Manifest Report-Stafford
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Accepted Originations Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Accepted Originations Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Loans on Hold Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Loans on Hold Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>PLUS Credit Decisions Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>PLUS Credit Decisions Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Rejected Originations Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Rejected Originations Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Export Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Export Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Changes Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Changes Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Validation Errors Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Validation Errors Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Errors Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Errors Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Status Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Status Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Booking Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Booking Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Auth Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Origination Auth Report
+Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Exception Summary:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Reconciliation>Disbursement Exception Summary
+Main Menu>Financial Aid>Loans>Commonline Reconciliation>Loans on Hold Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Reconciliation>Loans on Hold Report
+Main Menu>Financial Aid>Loans>Commonline Reconciliation>Validation Error Report:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Reconciliation>Validation Error Report
+Main Menu>Financial Aid>File Management>Commonline Loans>CL 4 Load Error Report:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>CL 4 Load Error Report
+Main Menu>Financial Aid>Loans>Commonline Reconciliation>CL4 Certification Request Rpt:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Reconciliation>CL4 Certification Request Rpt
+Main Menu>Financial Aid>Loans>Commonline Reconciliation>CL4 EFT Discrepancy Reports:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Reconciliation>CL4 EFT Discrepancy Reports
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Attended Routing ID:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Attended Routing ID
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Search Match Setup:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Search Match Setup
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Identify Self Service Lenders:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Identify Self Service Lenders
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>Define Loan Counseling Options:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>Define Loan Counseling Options
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>Set DL Loan Counseling Search:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Loan Counseling>Set DL Loan Counseling Search
+Main Menu>Financial Aid>Loans>Commonline Management>Maintain Student MPN Usage:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Maintain Student MPN Usage
+Main Menu>Financial Aid>Loans>Direct Lending Management>Create Signatures In Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Direct Lending Management>Create Signatures In Batch
+Main Menu>Financial Aid>Loans>DL School Account Summary>Manage DL Cash Transactions:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>DL School Account Summary>Manage DL Cash Transactions
+Main Menu>Financial Aid>Loans>Commonline Management>View CRC Loan Participants:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>View CRC Loan Participants
+Main Menu>Financial Aid>File Management>Commonline Loans>Inbound EC Agent:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Inbound EC Agent
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Copy Loan Report Definitions:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Copy Loan Report Definitions
+Main Menu>Financial Aid>Loans>Commonline Management>Validate CL 4 Loans:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Validate CL 4 Loans
+Main Menu>Financial Aid>File Management>Commonline Loans>Outbound EC Agent:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Outbound EC Agent
+Main Menu>Financial Aid>Loans>Commonline Management>Process Hold and Release:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Commonline Management>Process Hold and Release
+Main Menu>Financial Aid>File Management>Commonline Loans>Process CL 4 Inbound Files:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Commonline Loans>Process CL 4 Inbound Files
+Main Menu>Financial Aid>Loans>Process Loans:0:Add Update/Display,x,Main Menu>Financial Aid>Loans>Process Loans
+Main Menu>Financial Aid>File Management>COD Full Participant>Generate ACG/SMART Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Generate ACG/SMART Data
+Main Menu>Financial Aid>File Management>COD Full Participant>Generate Pell Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Generate Pell Data
+Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Print Grant ESOA:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Print Grant ESOA
+Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR by Status:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR by Status
+Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR by Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR by Batch
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Import and Export:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Import and Export
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Status:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Status
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Rejected Origination by Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Rejected Origination by Batch
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Originations by Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Originations by Batch
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Rejected Disbursement by Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Rejected Disbursement by Batch
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Transaction Status:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Transaction Status
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursement Records:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursement Records
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Status:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Status
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursement Acknowledgement:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursement Acknowledgement
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Acknowledgement:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Origination Acknowledgement
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Records With No Origination:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Records With No Origination
+Main Menu>Financial Aid>Pell Payment>Year To Date Reports>YTD Disbursements:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Year To Date Reports>YTD Disbursements
+Main Menu>Financial Aid>Pell Payment>Year To Date Reports>YTD Originations:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Year To Date Reports>YTD Originations
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Batch:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Batch
+Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Action Code:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Disbursement Reports>Disbursements by Action Code
+Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR Report:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Multiple Reporting>MRR Report
+Main Menu>Financial Aid>Pell Payment>Origination Reports>Originations by Action Code:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Origination Reports>Originations by Action Code
+Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Cash Summary:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Cash Management Reports>Cash Summary
+Main Menu>Financial Aid>File Management>Pell Grants>Create Pell Data Request:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>Pell Grants>Create Pell Data Request
+Main Menu>Financial Aid>Pell Payment>Originate Pell Payment:0:Add Update/Display,x,Main Menu>Financial Aid>Pell Payment>Originate Pell Payment
+Main Menu>Financial Aid>File Management>COD Full Participant>Import FWS Response Data:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Import FWS Response Data
+Main Menu>Financial Aid>File Management>COD Full Participant>Generate Federal Work Study:0:Add Update/Display,x,Main Menu>Financial Aid>File Management>COD Full Participant>Generate Federal Work Study
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Define Mass Packaging Query:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Define Mass Packaging Query
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Define INST Packaging Query:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Define INST Packaging Query
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Run INST Mass Packaging Select:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Run INST Mass Packaging Select
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Run INST Mass Packaging Assign:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Run INST Mass Packaging Assign
+Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Process INST Mass Packaging:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>FA Hidden Components>Process INST Mass Packaging
+Main Menu>Financial Aid>Satisfactory Academic Progress>Process SAP:0:Add Update/Display,x,Main Menu>Financial Aid>Satisfactory Academic Progress>Process SAP
+Main Menu>Financial Aid>Satisfactory Academic Progress>Create SAP Communications:0:Add Update/Display,x,Main Menu>Financial Aid>Satisfactory Academic Progress>Create SAP Communications
+Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define SAP AE Library:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define SAP AE Library
+Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Evaluation Terms:0:Add Update/Display,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Evaluation Terms
+Main Menu>CAL Components>Utilities>Import/Export Service>Import>Import (Batch):0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Import>Import (Batch)
+Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review Processing Locks:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review Processing Locks
+Main Menu>CAL Components>Utilities>Import/Export Service>Reports>Exports and Reports:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Reports>Exports and Reports
+Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review FTP Session Logs:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Review Logs/Locks>Review FTP Session Logs
+Main Menu>CAL Components>Utilities>Import/Export Service>Process>Attachment Archive/Restore:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Process>Attachment Archive/Restore
+Main Menu>CAL Components>Utilities>Import/Export Service>Export>Export (Batch):0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Export>Export (Batch)
+Main Menu>CAL Components>Utilities>Import/Export Service>Process>Process Reset:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Process>Process Reset
+Main Menu>CAL Components>Utilities>Import/Export Service>Process>Errors From Message Mapping:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Import/Export Service>Process>Errors From Message Mapping
+Main Menu>CAL Components>Financial Aid>ISIR QA Verification>Batch IM Remove Auto Zero:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>ISIR QA Verification>Batch IM Remove Auto Zero
+Main Menu>CAL Components>Financial Aid>Reporting>Load CA ISIR Reporting Table:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>Load CA ISIR Reporting Table
+Main Menu>CAL Components>Financial Aid>Reporting>Haas Data File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>Haas Data File
+Main Menu>CAL Components>Financial Aid>Reporting>FASO UCOP Data File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>FASO UCOP Data File
+Main Menu>CAL Components>Financial Aid>Reporting>Load ISIR Reporting Table:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>Load ISIR Reporting Table
+Main Menu>CAL Components>Financial Aid>Reporting>Law Data File:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>Law Data File
+Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Table:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Table
+Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Type Table:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Type Table
+Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Packaging Variables:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Personal Profile>Housing Packaging Variables
+Main Menu>CAL Components>Utilities>Copy QBU run control records:0:Add Update/Display,x,Main Menu>CAL Components>Utilities>Copy QBU run control records
+Main Menu>CAL Components>Financial Aid>Reporting>Scholar Manual Match Files:0:Add Update/Display,x,Main Menu>CAL Components>Financial Aid>Reporting>Scholar Manual Match Files
+Main Menu>Records and Enrollment>Transcripts>Request Transcript Report:0:Add Update/Display,x,Main Menu>Records and Enrollment>Transcripts>Request Transcript Report
+Main Menu>Records and Enrollment>Transcripts>Batch Transcripts>Process Transcripts:0:Add Update/Display,x,Main Menu>Records and Enrollment>Transcripts>Batch Transcripts>Process Transcripts
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Admissions Detail:0:Update/Display All,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Admissions Detail
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Loan Edits:0:Update/Display All,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CommonLine 4>Maintain Loan Edits
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Maintain CRC Loan Edits:0:Update/Display All,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Maintain CRC Loan Edits
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>Federal Detail 2016-2017:0:Update/Display All,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>Federal Detail 2016-2017
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>Federal Detail 2017-2018:0:Update/Display All,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>Federal Detail 2017-2018
+Main Menu>Financial Aid>Federal Application Data>View 2022-2023 FM EFC Detail:0:Update/Display All,x,Main Menu>Financial Aid>Federal Application Data>View 2022-2023 FM EFC Detail
+Main Menu>Financial Aid>Federal Application Data>View FM SAI Detail:0:Update/Display All,x,Main Menu>Financial Aid>Federal Application Data>View FM SAI Detail
+Main Menu>Financial Aid>Federal Application Data>View 2023-2024 FM EFC Detail:0:Update/Display All,x,Main Menu>Financial Aid>Federal Application Data>View 2023-2024 FM EFC Detail
+Main Menu>Financial Aid>Awards>View NSLDS Loan Data:0:Update/Display All,x,Main Menu>Financial Aid>Awards>View NSLDS Loan Data
+Main Menu>Financial Aid>Loans>View Loan Action Codes:0:Update/Display All,x,Main Menu>Financial Aid>Loans>View Loan Action Codes
+Main Menu>Financial Aid>Loans>View Award Disbursements:0:Update/Display All,x,Main Menu>Financial Aid>Loans>View Award Disbursements
+Main Menu>CAL Components>Financial Aid>ISIR QA Verification>Cal ISIR QA Verification:0:Update/Display All,x,Main Menu>CAL Components>Financial Aid>ISIR QA Verification>Cal ISIR QA Verification
+Main Menu>CAL Components>Financial Aid>ISIR QA Verification>FAFSA QA Verification:0:Update/Display All,x,Main Menu>CAL Components>Financial Aid>ISIR QA Verification>FAFSA QA Verification
+Main Menu>Campus Community>Delegated Access>Review Shared Information:1:Update/Display Update/Display All,x,Main Menu>Campus Community>Delegated Access>Review Shared Information
+Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Residency Data:1:Update/Display Update/Display All,x,Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Residency Data
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>View MCS Adm/Enroll File Data:0:Update/Display Update/Display All,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>View MCS Adm/Enroll File Data
+Main Menu>Set Up SACR>Product Related>Financial Aid>Financial Aid Term>Setup Financial Aid Term:0:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Financial Aid Term>Setup Financial Aid Term
+Main Menu>Set Up SACR>Security>Equation Tree Security>Application Engine>Application Engine:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Security>Equation Tree Security>Application Engine>Application Engine
+Main Menu>Set Up SACR>Security>Equation Tree Security>Callable SQL>Callable SQL:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Security>Equation Tree Security>Callable SQL>Callable SQL
+Main Menu>Set Up SACR>Security>Equation Tree Security>External Subroutines>External Routines:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Security>Equation Tree Security>External Subroutines>External Routines
+Main Menu>Set Up SACR>Security>Equation Tree Security>Equation Names>Equation Names:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Security>Equation Tree Security>Equation Names>Equation Names
+Main Menu>Set Up SACR>Security>Equation Tree Security>Tables and Views>Tables and Views:1:Update/Display Update/Display All,x,Main Menu>Set Up SACR>Security>Equation Tree Security>Tables and Views>Tables and Views
+Main Menu>Financial Aid>File Management>PROFILE Import>Suspense Management:0:Update/Display Update/Display All,x,Main Menu>Financial Aid>File Management>PROFILE Import>Suspense Management
+Main Menu>Financial Aid>Budgets>Maintain Term Budgets:0:Update/Display Update/Display All,x,Main Menu>Financial Aid>Budgets>Maintain Term Budgets
+Main Menu>Financial Aid>Loans>Commonline Management>CRC Certification Request:0:Update/Display Update/Display All,x,Main Menu>Financial Aid>Loans>Commonline Management>CRC Certification Request
+Main Menu>Financial Aid>File Management>Loan Counseling>View DL Loan Counseling Data:0:Update/Display Update/Display All,x,Main Menu>Financial Aid>File Management>Loan Counseling>View DL Loan Counseling Data
+Main Menu>Records and Enrollment>Career and Program Information>Student Groups:0:Update/Display Update/Display All,x,Main Menu>Records and Enrollment>Career and Program Information>Student Groups
+Main Menu>CAL Components>Financial Aid>Personal Profile>Student Housing Option:0:Update/Display Update/Display All,x,Main Menu>CAL Components>Financial Aid>Personal Profile>Student Housing Option
+Main Menu>Financial Aid>File Management>Need Access Import>Suspense Records 2008-2009:0:Add Update/Display Update/Display All,x,Main Menu>Financial Aid>File Management>Need Access Import>Suspense Records 2008-2009
+Main Menu>Financial Aid>File Management>Need Access Import>Suspense Records 2009-2010:0:Add Update/Display Update/Display All,x,Main Menu>Financial Aid>File Management>Need Access Import>Suspense Records 2009-2010
+Main Menu>Financial Aid>File Management>PROFILE Import>Suspense Records 2009-2010:0:Add Update/Display Update/Display All,x,Main Menu>Financial Aid>File Management>PROFILE Import>Suspense Records 2009-2010
+Main Menu>Financial Aid>Loans>DL School Account Summary>DLSAS Import 2015-2016:0:Add Update/Display Update/Display All,x,Main Menu>Financial Aid>Loans>DL School Account Summary>DLSAS Import 2015-2016
+Main Menu>Financial Aid>Satisfactory Academic Progress>Simulate Student Eligibility:0:Add Update/Display Update/Display All,x,Main Menu>Financial Aid>Satisfactory Academic Progress>Simulate Student Eligibility
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2023-24 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2023-24 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Reconciliation Dtls:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Reconciliation Dtls
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Correction/Payment Staging:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Correction/Payment Staging
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2015-16 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2015-16 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2016-17 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2016-17 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2017-18 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2017-18 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Delete:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>Cal ISIR Delete
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2024-25 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2024-25 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2022-23 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2022-23 Cal ISIR Records
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2018-19 Cal ISIR Records:0:Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Use>View 2018-19 Cal ISIR Records
+Main Menu>Set Up SACR>Product Related>Financial Aid>Financial Aid Term>Define Career Types:0:Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Financial Aid Term>Define Career Types
+Main Menu>Financial Aid>File Management>ISIR Import>Delete ISIR/NSLDS Records:0:Correction,x,Main Menu>Financial Aid>File Management>ISIR Import>Delete ISIR/NSLDS Records
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>View 2016-2017 ISIRs:0:Correction,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>View 2016-2017 ISIRs
+Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>View 2017-2018 ISIRs:0:Correction,x,Main Menu>Financial Aid>Financial Aid History>Federal ISIR Information>View 2017-2018 ISIRs
+Main Menu>Financial Aid>Federal Application Data>Correct 2022-2023 ISIR records:0:Correction,x,Main Menu>Financial Aid>Federal Application Data>Correct 2022-2023 ISIR records
+Main Menu>Financial Aid>Federal Application Data>Correct 2023-2024 ISIR records:0:Correction,x,Main Menu>Financial Aid>Federal Application Data>Correct 2023-2024 ISIR records
+Main Menu>Financial Aid>Federal Application Data>Simulate FM:0:Correction,x,Main Menu>Financial Aid>Federal Application Data>Simulate FM
+Main Menu>Financial Aid>Federal Application Data>Correct ISIR Records:0:Correction,x,Main Menu>Financial Aid>Federal Application Data>Correct ISIR Records
+Main Menu>CAL Components>Financial Aid>Reporting>CAL ISIR Compare Report:0:Add Correction,x,Main Menu>CAL Components>Financial Aid>Reporting>CAL ISIR Compare Report
+Main Menu>CAL Components>Financial Aid>Reporting>ISIR Compare Report:0:Add Correction,x,Main Menu>CAL Components>Financial Aid>Reporting>ISIR Compare Report
+Main Menu>SCI Enhancements>Communication Center>Message Component Setup:0:Add Update/Display Correction,x,Main Menu>SCI Enhancements>Communication Center>Message Component Setup
+Main Menu>SCI Enhancements>Communication Center>Message Exclusion Codes:0:Add Update/Display Correction,x,Main Menu>SCI Enhancements>Communication Center>Message Exclusion Codes
+Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Verification Setup:0:Add Update/Display Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Application Processing>Verification Setup
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Destinations:0:Add Update/Display Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>CR CommonLine>Create CRC Loan Destinations
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Hold and Release Equations:0:Add Update/Display Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Hold and Release Equations
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Payment Roster Detail:0:Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Payment Roster Detail
+Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Set Up Disbursement Calendars:0:Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Set Up Disbursement Calendars
+Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Define Global Rules:0:Add Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Define Global Rules
+Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Define Item Type Rules:1:Add Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Disbursement>Define Item Type Rules
+Main Menu>Financial Aid>Financial Aid Term>Maintain Student FA Term:0:Update/Display Update/Display All Correction,x,Main Menu>Financial Aid>Financial Aid Term>Maintain Student FA Term
+Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Citizenship>Visa Permit Data:1:Update/Display Update/Display All Correction,x,Main Menu>Campus Community>Personal Information (Student)>Identification (Student)>Citizenship>Visa Permit Data
+Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Enrollment Detail:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal MCS>MCS Use>MCS Enrollment Detail
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Assignment Run Control:0:Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Assignment Run Control
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Tree Address Usage:0:Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Tree Address Usage
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Package Rating Components:0:Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Package Rating Components
+Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Set Up Criteria:0:Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Satisfactory Academic Progress>Define Set Up Criteria
+Main Menu>Financial Aid>Satisfactory Academic Progress>Maintain Student SAP Data:0:Update/Display Update/Display All Correction,x,Main Menu>Financial Aid>Satisfactory Academic Progress>Maintain Student SAP Data
+Main Menu>CAL Components>Campus Community>Self-Service>Administration Pages>Checklist Management:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Campus Community>Self-Service>Administration Pages>Checklist Management
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Convert Aid Setup:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Convert Aid Setup
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>External Awards Item Types:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>External Awards Item Types
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Award Management Setup:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Award Management Setup
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Self Service Defaults:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Self Service Defaults
+"Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Trms & Cond, Title IV Response:0:Update/Display Update/Display All Correction",x,"Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Trms & Cond, Title IV Response"
+Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Enrollment Verification Admin:0:Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>Self-Service>Administration Pages>Enrollment Verification Admin
+Main Menu>SCI Enhancements>Communication Center>Communication Group Setup:0:Add Update/Display Update/Display All Correction,x,Main Menu>SCI Enhancements>Communication Center>Communication Group Setup
+Main Menu>SCI Enhancements>Communication Center>Message Setup:0:Add Update/Display Update/Display All Correction,x,Main Menu>SCI Enhancements>Communication Center>Message Setup
+Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Data:0:Add Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal Grant>Cal Grant Use>Cal Grant Data
+Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Setup>Cal ISIR Load Parameters:0:Add Update/Display Update/Display All Correction,x,Main Menu>CAL Components>Financial Aid>UCB Cal ISIR>Cal ISIR Setup>Cal ISIR Load Parameters
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Aid Limits:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Aggregate Aid Limits
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Region Table:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Region Table
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Assignment:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Assignment
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Formulas:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Formulas
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Trees:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Budget Trees
+Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Application Source Rank:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Budgets>Application Source Rank
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Early Financial Aid Categories:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Early Financial Aid Categories
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Data Tables:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Data Tables
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation External Subroutines:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation External Subroutines
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation SQL Routines:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation SQL Routines
+Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Editor:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Common Definitions>Equation Engine>Equation Editor
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Financial Aid Item Types:1:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Financial Aid Item Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Loan Fee Setup:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Loan Fee Setup
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Packaging Equity Item Types:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Packaging Equity Item Types
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Packaging Plan:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Packaging Plan
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Related Item Type Group:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Related Item Type Group
+Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Repackaging Plan:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Awards>Repackaging Plan
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>ISIR Data Load Parameters:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>ISIR Data Load Parameters
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>NSLDS Data Load Parameters:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>NSLDS Data Load Parameters
+Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>PROFILE Load Parameters:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>File Management>PROFILE Load Parameters
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Loan Report Definitions:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Define Loan Report Definitions
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Report Packages:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Maintain Loan Report Packages
+Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Setup Perkins MPN Options:0:Add Update/Display Update/Display All Correction,x,Main Menu>Set Up SACR>Product Related>Financial Aid>Loans>Setup Perkins MPN Options
