@@ -1,4 +1,4 @@
-import step1_filter
+import new_step1_filter
 import step2_merge
 import step3_lookup
 import step4_final_format
@@ -17,7 +17,7 @@ def main():
 
     # 2. Run the sequence
     try:
-        step1_filter.run_step(target_col)
+        new_step1_filter.run_step(target_col)
         step2_merge.run_step()
         step3_lookup.run_step()
         
